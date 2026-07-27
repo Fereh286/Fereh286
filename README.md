@@ -15,7 +15,9 @@ www.linkedin.com/in/fərəh-eyvazova-545766421
 <a href="https://www.credly.com/badges/ba2ae396-3c23-4494-a35f-93c89b41b439/public_url">
   <img src="https://images.credly.com/images/3d463161-0738-4e8c-a117-90c0175b2447/Google_Agile_Essentials.png" width="130" alt="Google Agile Essentials">
 </a>
-[![Google Data Analytics Certificate](https://images.credly.com/size/340x340/images/2d84e428-9078-49b2-b80c-b26117281f6d/GCC_badge_PGM_GDA_002.png)](https://www.credly.com/badges/ea736e77-a110-44a9-9cc9-2b0c9f1d3505/public_url)
+<a href="https://www.credly.com/badges/ea736e77-a110-44a9-9cc9-2b0c9f1d3505/public_url">
+  <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b2-b80c-b26117281f6d/GCC_badge_PGM_GDA_002.png" width="130" alt="Google Data Analytics Certificate">
+</a>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Fereh286&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Fereh286&theme=dark&hide_border=false)<br/>

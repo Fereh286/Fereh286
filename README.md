@@ -18,6 +18,9 @@ www.linkedin.com/in/fərəh-eyvazova-545766421
 <a href="https://www.credly.com/badges/ea736e77-a110-44a9-9cc9-2b0c9f1d3505/public_url">
   <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b2-b80c-b26117281f6d/GCC_badge_PGM_GDA_002.png" width="130" alt="Google Data Analytics Certificate">
 </a>
+<a href="https://www.credly.com/badges/4e507ecc-3804-4f0e-aa9d-5ca883ce9747/public_url">
+  <img src="https://images.credly.com/size/340x340/images/5f4e5659-5f2d-4cc8-8d00-47b2d56a2bb0/image.png" width="130" alt="Google AI Essentials">
+</a>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Fereh286&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Fereh286&theme=dark&hide_border=false)<br/>
